@@ -1,0 +1,6 @@
+zupa 7.0
+pierogi 9.0
+sushi 20.0 
+steak 22.0
+frytki 6.0
+kebab 12.0
